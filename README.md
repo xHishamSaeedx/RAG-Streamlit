@@ -15,10 +15,17 @@ These instructions will help you get a copy of the project running on your local
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/RAG-Streamlit.git)
 
-cd your-repo-name
 
-pip install -r requirements.txt
+2. Change directory:
+   ```bash
+   cd RAG-Streamlit
 
-streamlit run streamlit_app.py
+3. Install requirements:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run streamlit application:
+   ```bash
+   streamlit run streamlit_app.py
